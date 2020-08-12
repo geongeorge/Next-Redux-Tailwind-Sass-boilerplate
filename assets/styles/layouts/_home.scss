@@ -1,0 +1,9 @@
+/** @format */
+
+.intro {
+  @apply mt-20 text-2xl;
+
+  a {
+    @apply text-blue-600 border-b-2 border-blue-600;
+  }
+}

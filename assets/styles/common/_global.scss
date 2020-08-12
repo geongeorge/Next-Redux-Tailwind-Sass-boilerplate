@@ -1,0 +1,11 @@
+/** @format */
+
+body {
+  @apply bg-gray-100;
+
+  font-family: "Source Sans Pro", "SF Pro Text", "SF Pro Icons",
+    "Helvetica Neue", "Helvetica", "Arial", sans-serif;
+
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
